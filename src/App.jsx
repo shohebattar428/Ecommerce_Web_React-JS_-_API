@@ -9,7 +9,7 @@ import Register from "./Screens/Register"
 import Profile from "./Screens/Profile"
 import Login from "./Screens/Login"
 import Cart from "./Screens/Cart"
-import Checkout from "./Screens/checkout"
+import Checkout from "./Screens/Checkout"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 
